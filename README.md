@@ -1,0 +1,1 @@
+# SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
